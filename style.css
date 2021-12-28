@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+}
+#myimg{
+    width: 250px;
+    height: 250px;
+}
+.mainbody{
+
+    background: linear-gradient(
+        45deg, black, transparent );
+}
+
+
+
+.main{
+    background-image: url(cool.png);
+    background-position: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    line-height: 30px;
+}
